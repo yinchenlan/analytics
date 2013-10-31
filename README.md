@@ -1,0 +1,1 @@
+A simple analytics commandline app which allows users to define dimensions and do aggregations.
